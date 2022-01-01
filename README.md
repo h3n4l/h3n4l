@@ -58,6 +58,6 @@ Python                   1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/h3n4l/h3n4l/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
