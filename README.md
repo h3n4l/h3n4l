@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-241%20Thousand%20lines%20of%20code-blue)
 
@@ -50,6 +50,6 @@ Python                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/h3n4l/h3n4l/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 00:32:23 UTC
+ Last Updated on 05/02/2022 00:27:42 UTC
 <!--END_SECTION:waka-->
 
