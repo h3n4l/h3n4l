@@ -20,16 +20,16 @@
 
 ```text
 💬 Programming Languages: 
-C++                      8 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CS144-sponge-2022        8 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -50,6 +50,6 @@ Python                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/h3n4l/h3n4l/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 00:27:42 UTC
+ Last Updated on 06/02/2022 00:39:52 UTC
 <!--END_SECTION:waka-->
 
