@@ -49,12 +49,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/h3n4l/h3n4l/main/charts/bar_graph.png) 
-
-
  Last Updated on 02/06/2022 00:58:10 UTC
 <!--END_SECTION:waka-->
 
