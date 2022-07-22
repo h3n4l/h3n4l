@@ -2,6 +2,7 @@
 
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
