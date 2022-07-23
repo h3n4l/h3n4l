@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
@@ -17,7 +17,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -84,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2022 06:20:18 UTC
+ Last Updated on 23/07/2022 06:48:25 UTC
 <!--END_SECTION:waka-->
 
