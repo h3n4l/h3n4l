@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
@@ -84,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2022 11:39:08 UTC
+ Last Updated on 24/07/2022 12:29:26 UTC
 <!--END_SECTION:waka-->
 
