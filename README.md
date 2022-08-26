@@ -11,8 +11,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 518 Contributions in the Year 2022
- > 
 > 📦 99.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -81,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 17:23:48 UTC
+ Last Updated on 26/08/2022 17:44:20 UTC
 <!--END_SECTION:waka-->
 
