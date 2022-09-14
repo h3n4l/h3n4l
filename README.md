@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -11,6 +11,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 580 Contributions in the Year 2022
+ > 
 > 📦 99.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -77,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 12:36:20 UTC
+ Last Updated on 14/09/2022 13:52:10 UTC
 <!--END_SECTION:waka-->
 
