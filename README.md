@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 599 Contributions in the Year 2022
+> 🏆 597 Contributions in the Year 2022
  > 
 > 📦 99.3 kB Used in GitHub's Storage 
  > 
@@ -79,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2022 10:21:06 UTC
+ Last Updated on 20/09/2022 10:49:28 UTC
 <!--END_SECTION:waka-->
 
