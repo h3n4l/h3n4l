@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,16 +48,19 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 23 mins        █████████████████████░░░░   87.47% 
+C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 34 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bytebase                 1 hr 24 mins        ██████████████████████░░░   89.48% 
+postgresql               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 34 mins        █████████████████████████   100.0%
 
 ```
 
@@ -74,6 +77,6 @@ Lex                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 16:22:24 UTC
+ Last Updated on 25/11/2022 16:51:58 UTC
 <!--END_SECTION:waka-->
 
