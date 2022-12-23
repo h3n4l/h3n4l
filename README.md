@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -36,8 +36,8 @@
 Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
 Tuesday      63 commits     █████░░░░░░░░░░░░░░░░░░░░   22.42% 
 Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.22% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Friday       55 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
 Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
 Sunday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
 
@@ -79,6 +79,6 @@ Lex                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2022 07:38:07 UTC
+ Last Updated on 23/12/2022 08:18:55 UTC
 <!--END_SECTION:waka-->
 
