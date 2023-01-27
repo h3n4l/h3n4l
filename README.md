@@ -48,17 +48,16 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 14 mins        █████████████████████████   99.96% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bytebase                 1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,6 +74,6 @@ Lex                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2023 16:20:21 UTC
+ Last Updated on 27/01/2023 16:46:10 UTC
 <!--END_SECTION:waka-->
 
