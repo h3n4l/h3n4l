@@ -15,7 +15,7 @@
  > 
 > 🏆 345 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
@@ -78,6 +78,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2023 06:20:53 UTC
+ Last Updated on 01/04/2023 06:42:31 UTC
 <!--END_SECTION:waka-->
 
