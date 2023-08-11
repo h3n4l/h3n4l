@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C487%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C487%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 356.0 kB Used in GitHub's Storage 
  > 
-> 🏆 910 Contributions in the Year 2023
+> 🏆 911 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +69,16 @@ WSL                      41 mins             █░░░░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Go                       11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 11/08/2023 02:21:48 UTC
+ Last Updated on 11/08/2023 02:42:45 UTC
 <!--END_SECTION:waka-->
 
