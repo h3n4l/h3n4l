@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C524%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C524%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,7 +68,7 @@ WSL                      2 hrs 51 mins       ████░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Go                       13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
 C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
@@ -78,6 +78,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 13:43:11 UTC
+ Last Updated on 24/08/2023 14:18:36 UTC
 <!--END_SECTION:waka-->
 
