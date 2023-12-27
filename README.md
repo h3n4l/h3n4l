@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -80,6 +80,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2023 13:19:46 UTC
+ Last Updated on 27/12/2023 13:41:03 UTC
 <!--END_SECTION:waka-->
 
