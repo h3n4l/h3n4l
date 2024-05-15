@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 386.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 447 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +46,20 @@ Sunday                   1202 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Protocol Buffer          30 mins             ███████████████░░░░░░░░░░   61.69 % 
+Vue.js                   13 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Go                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bytebase                 49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -69,6 +75,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2024 16:22:04 UTC
+ Last Updated on 15/05/2024 16:44:20 UTC
 <!--END_SECTION:waka-->
 
