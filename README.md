@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 386.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 450 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,6 +75,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 09:42:43 UTC
+ Last Updated on 17/05/2024 10:19:09 UTC
 <!--END_SECTION:waka-->
 
