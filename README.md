@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -17,7 +17,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
@@ -68,16 +68,16 @@ Mac                      6 hrs 34 mins       ███████████�
 **I Mostly Code in Go** 
 
 ```text
-C++                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-ANTLR                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C++                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+ANTLR                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 24/09/2024 05:53:56 UTC
+ Last Updated on 24/09/2024 06:36:05 UTC
 <!--END_SECTION:waka-->
 
