@@ -13,8 +13,6 @@
 
 > 📦 390.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,174 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -76,6 +74,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 18:49:23 UTC
+ Last Updated on 29/12/2024 19:16:59 UTC
 <!--END_SECTION:waka-->
 
