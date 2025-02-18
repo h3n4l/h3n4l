@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C061%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 391.1 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +46,18 @@ Sunday                   2205 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       39 mins             █████████████████░░░░░░░░   66.52 % 
-Protocol Buffer          19 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Go                       4 hrs 40 mins       █████████████████████░░░░   85.95 % 
+Protocol Buffer          45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bytebase                 58 mins             █████████████████████████   100.00 % 
+bytebase                 5 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 40 mins       █████████████████████░░░░   85.75 % 
+WSL                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,6 +73,6 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2025 16:20:08 UTC
+ Last Updated on 18/02/2025 16:52:53 UTC
 <!--END_SECTION:waka-->
 
