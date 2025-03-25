@@ -13,8 +13,6 @@
 
 > 📦 391.6 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -77,6 +75,6 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 16:53:58 UTC
+ Last Updated on 25/03/2025 17:19:30 UTC
 <!--END_SECTION:waka-->
 
