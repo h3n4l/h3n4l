@@ -3,17 +3,17 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 392.9 kB Used in GitHub's Storage 
  > 
-> 🏆 936 Contributions in the Year 2025
+> 🏆 941 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,48 +21,6 @@
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8948 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-🌆 Daytime                36753 commits       ██████████████░░░░░░░░░░░   57.11 % 
-🌃 Evening                15995 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-🌙 Night                  2654 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   11618 commits       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Tuesday                  13144 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Wednesday                10824 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Thursday                 11835 commits       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   10718 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Saturday                 2964 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Sunday                   3247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       7 hrs 49 mins       ███████████████████████░░   91.25 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 34 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bytebase                 8 hrs 27 mins       █████████████████████████   98.74 % 
-mongosh                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-
-💻 Operating System: 
-Mac                      8 hrs 34 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -76,6 +34,6 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 00:43:59 UTC
+ Last Updated on 14/11/2025 00:44:44 UTC
 <!--END_SECTION:waka-->
 
