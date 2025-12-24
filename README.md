@@ -3,11 +3,11 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -21,47 +21,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10799 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 Daytime                43656 commits       ██████████████░░░░░░░░░░░   57.45 % 
-🌃 Evening                18483 commits       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-🌙 Night                  3052 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   13917 commits       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  15508 commits       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Wednesday                12790 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 14065 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   12657 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Saturday                 3345 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   3708 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       6 hrs 37 mins       ██████████████████████░░░   88.84 % 
-SQL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Protocol Buffer          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 27 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bytebase                 7 hrs 27 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -75,6 +34,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 00:50:14 UTC
+ Last Updated on 24/12/2025 00:46:58 UTC
 <!--END_SECTION:waka-->
 
