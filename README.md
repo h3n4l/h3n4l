@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 391.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,039 Contributions in the Year 2025
+> 🏆 1,040 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,6 +21,45 @@
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+🌆 Daytime                37493 commits       ██████████████░░░░░░░░░░░   57.23 % 
+🌃 Evening                16194 commits       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌙 Night                  2692 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   11886 commits       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Tuesday                  13370 commits       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Wednesday                11006 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 12067 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Friday                   10910 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Saturday                 2998 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Sunday                   3278 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       7 hrs 23 mins       █████████████████████████   99.51 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bytebase                 7 hrs 25 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -34,6 +73,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 00:46:58 UTC
+ Last Updated on 25/12/2025 00:45:46 UTC
 <!--END_SECTION:waka-->
 
