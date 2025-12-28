@@ -3,7 +3,7 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,17 +46,17 @@ Sunday                   3372 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 13 mins       █████████████████████████   98.92 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Go                       2 hrs 20 mins       █████████████████████████   98.51 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bytebase                 3 hrs 15 mins       █████████████████████████   100.00 % 
+bytebase                 2 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,6 +72,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 00:45:20 UTC
+ Last Updated on 28/12/2025 00:51:04 UTC
 <!--END_SECTION:waka-->
 
