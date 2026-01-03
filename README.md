@@ -3,11 +3,9 @@
 [![h3n4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3n4l&count_private=true&show_icons=true&theme=radical)](https://github.com/h3n4l/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.84%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.16%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -21,43 +19,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9693 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌆 Daytime                39576 commits       ██████████████░░░░░░░░░░░   57.32 % 
-🌃 Evening                16957 commits       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌙 Night                  2812 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   12581 commits       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Tuesday                  14089 commits       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Wednesday                11600 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 12739 commits       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Friday                   11501 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Saturday                 3109 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   3419 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       56 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bytebase                 56 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      56 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -71,6 +32,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:47:34 UTC
+ Last Updated on 03/01/2026 00:44:54 UTC
 <!--END_SECTION:waka-->
 
